@@ -1,7 +1,7 @@
 import React from 'react';
 import type { EducationItem, Skill, Project, Experience, Certification, Achievement, Position, CodingProfile } from './types';
 
-export const PROFILE_PHOTO_BASE64 = "WhatsApp Image 2025-08-25 at 21.16.01_f7294715.jpg";
+export const PROFILE_PHOTO_BASE64 = "profile.jpg";
 
 export const EDUCATION_DATA: EducationItem[] = [
   {
